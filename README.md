@@ -16,6 +16,6 @@ This keyboard layout has been created to help those users who run Windows machin
 
 # Credits:
 
-[Ukelele](https://software.sil.org/ukelele/)
-[Keyboard Layouts Git project](https://github.com/adobe-type-tools/keyboard-layouts)
-[MSKLC Guide](https://msklc-guide.github.io/)
+- [Ukelele](https://software.sil.org/ukelele/)
+- [Keyboard Layouts Git project](https://github.com/adobe-type-tools/keyboard-layouts)
+- [MSKLC Guide](https://msklc-guide.github.io/)
